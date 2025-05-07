@@ -1,6 +1,6 @@
 Este proyecto pretende predecir si un paciente tiene o no diabetes centrándose en obtener la mejor exactitud (accuracy).
 
-Para resolverlo se aplica de modelo de boosting, ajustando los hiperparámetros con distintas configuraciones para obtener la mejor precisión.
+Para resolverlo se aplica de modelo de boosting ajustando los hiperparámetros con distintas configuraciones para obtener la mejor precisión.
 
 Finalmente se guarda el modelo.
 
